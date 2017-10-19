@@ -1,0 +1,21 @@
+.hide {
+  display: none;
+}
+.card {
+  max-width: 500px;
+  width: 100%;
+  float: left;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
+.form-control {
+  margin-bottom: 2%;
+}
+
+/*p {
+  clear: both;
+}*/
+
+/*img {
+  float: left;
+}*/
